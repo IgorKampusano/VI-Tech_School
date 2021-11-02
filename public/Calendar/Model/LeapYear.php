@@ -2,6 +2,7 @@
 
 namespace App\Calendar\Model;
 
+
 class LeapYear
 {
     public function isLeapYear($year = null)

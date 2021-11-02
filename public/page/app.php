@@ -2,6 +2,7 @@
 
 namespace App;
 
+
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Route;
 use Symfony\Component\Routing\RouteCollection;
